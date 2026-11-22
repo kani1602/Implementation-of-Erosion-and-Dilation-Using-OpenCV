@@ -49,9 +49,9 @@ Display the dilated image.
 Compare the original, eroded, and dilated images.
 
 Developed By
-Name: Janani saraswathi S
+Name: Kanishka V
 
-Register No: 212225230110
+Register No: 212224100030
 
 # PROGRAMM
 # Original Image
